@@ -22,7 +22,7 @@ html, body {
 
 .fullScreen {
     height: 100%;
-    text-align:center;background-image: url("images/CommissiondesVapeurs.jpg");
+    text-align:center;background-image: url("/CommissiondesVapeurs.jpg");
     background-attachment: fixed;
     background-position: center;
 
